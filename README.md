@@ -6,9 +6,7 @@
    genearally all ticker symbole have one to six word and here you have to guess the symbol.
    # how to go with coding 
    1. make index.html , style.css and game.js file 
-   2. make structure of game in index.html link with style.css and game.js 
+   2. make structure of game in index.html link with style.css and  
    3. design page with style.css 
-   4. add your all logic in gam.js 
-   5. start with psuedocode of game.js 
-      5.1 Psuedocode
-       1. 
+   4. add your all logic in game.js 
+  
